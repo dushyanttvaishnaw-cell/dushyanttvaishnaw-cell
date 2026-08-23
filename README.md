@@ -1,5 +1,5 @@
 # 💫 About Me:
-Data and Business Analyst with hands-on experience analyzing operational, supply chain, and business data to drive process<br>improvement and decision-making. Strong background in SQL, Power BI, and advanced Excel, with experience building dashboards, analyzing KPIs, and translating business requirements into analytical solutions. Completed a Master’s in Business Analytics and<br>seeking analyst roles in data, operations, or business analytics.
+Data and Business Analyst with hands-on experience analyzing operational, supply chain, and business data to drive process<br>improvement and decision-making. Strong background in SQL, Power BI, and advanced Excel, with experience building dashboards, analyzing KPIs, and translating business requirements into analytical solutions. Completed a Master’s in Business Analytics and seeking analyst roles in data, operations, or business analytics.
 
 
 ## 🌐 Socials:
