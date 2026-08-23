@@ -6,7 +6,7 @@ I turn **operational and business data into actionable insights** using SQL, Pyt
 
 I have a Master's in Business Analytics and a strong interest in solving real-world problems across **data analytics, business operations, supply chain, and performance improvement**.
 
-My projects focus on more than just visualization — I work through the full analytical process:
+My projects focus on more than just visualization - I work through the full analytical process:
 
 **Business Problem → Data → SQL/Python Analysis → Root Cause → KPI → Recommendation**
 
@@ -14,12 +14,12 @@ My projects focus on more than just visualization — I work through the full an
 
 ## 🔎 What I Work On
 
-* 📊 **Business & Data Analytics** — KPI analysis, trend analysis, segmentation, and root-cause investigation
-* ⚙️ **Operations Analytics** — process performance, service levels, productivity, and operational metrics
-* 🚚 **Supply Chain Analytics** — demand uncertainty, inventory decisions, simulations, and logistics
-* 🗄️ **SQL & Data Engineering** — data modeling, complex SQL, ETL concepts, Oracle, and analytical datasets
-* 📈 **Business Intelligence** — Power BI dashboards, KPI frameworks, and decision-support reporting
-* 🐍 **Python & Statistics** — exploratory analysis, simulation, forecasting, and statistical modeling
+* 📊 **Business & Data Analytics** - KPI analysis, trend analysis, segmentation, and root-cause investigation
+* ⚙️ **Operations Analytics** - process performance, service levels, productivity, and operational metrics
+* 🚚 **Supply Chain Analytics** - demand uncertainty, inventory decisions, simulations, and logistics
+* 🗄️ **SQL & Data Engineering** - data modeling, complex SQL, ETL concepts, Oracle, and analytical datasets
+* 📈 **Business Intelligence** - Power BI dashboards, KPI frameworks, and decision-support reporting
+* 🐍 **Python & Statistics** - exploratory analysis, simulation, forecasting, and statistical modeling
 
 ---
 
