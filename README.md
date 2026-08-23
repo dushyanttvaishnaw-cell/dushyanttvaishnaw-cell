@@ -14,16 +14,16 @@ My projects focus on more than just visualization - I work through the full anal
 
 ## 🔎 What I Work On
 
-* 📊 **Business & Data Analytics** - KPI analysis, trend analysis, segmentation, and root-cause investigation
-* ⚙️ **Operations Analytics** - process performance, service levels, productivity, and operational metrics
-* 🚚 **Supply Chain Analytics** - demand uncertainty, inventory decisions, simulations, and logistics
-* 🗄️ **SQL & Data Engineering** - data modeling, complex SQL, ETL concepts, Oracle, and analytical datasets
-* 📈 **Business Intelligence** - Power BI dashboards, KPI frameworks, and decision-support reporting
-* 🐍 **Python & Statistics** - exploratory analysis, simulation, forecasting, and statistical modeling
+**Business & Data Analytics** - KPI analysis, trend analysis, segmentation, and root-cause investigation
+**Operations Analytics** - process performance, service levels, productivity, and operational metrics
+**Supply Chain Analytics** - demand uncertainty, inventory decisions, simulations, and logistics
+**SQL & Data Engineering** - data modeling, complex SQL, ETL concepts, Oracle, and analytical datasets
+**Business Intelligence** - Power BI dashboards, KPI frameworks, and decision-support reporting
+**Python & Statistics** - exploratory analysis, simulation, forecasting, and statistical modeling
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Analytics
 
@@ -51,9 +51,9 @@ My projects focus on more than just visualization - I work through the full anal
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ Enterprise Oracle Metric Intelligence Platform
+### Enterprise Oracle Metric Intelligence Platform
 
 **Oracle SQL • PL/SQL • Data Warehousing • ETL • Performance Engineering**
 
@@ -76,7 +76,7 @@ Includes:
 
 ---
 
-### 📦 Supply Chain Monte Carlo Simulation
+### Supply Chain Monte Carlo Simulation
 
 **Python • Statistical Modeling • Simulation • Supply Chain Analytics**
 
@@ -86,7 +86,7 @@ A stochastic supply-chain analysis project evaluating demand and price uncertain
 
 ---
 
-### ✈️ NYC Flight Delay Analysis
+### NYC Flight Delay Analysis
 
 **R • Statistics • Machine Learning • Data Analysis**
 
@@ -96,7 +96,7 @@ Analysis of historical airline data to investigate the factors associated with d
 
 ---
 
-### 🎮 Video Game Sales Analysis
+### Video Game Sales Analysis
 
 **Python • Pandas • Data Visualization • Exploratory Analysis**
 
@@ -106,7 +106,7 @@ Exploration of video-game sales data to identify trends across platforms, genres
 
 ---
 
-### 📦 Food Imports & Exports Analysis
+### Food Imports & Exports Analysis
 
 **Data Analytics • Visualization • International Trade**
 
@@ -116,7 +116,7 @@ Analysis of food import/export trends to understand changes in trade volumes and
 
 ---
 
-## 🎯 Currently Building
+## Currently Building
 
 I'm expanding my portfolio toward **real-world enterprise analytics projects**, particularly:
 
@@ -133,7 +133,7 @@ I'm expanding my portfolio toward **real-world enterprise analytics projects**, 
 
 ---
 
-## 💡 My Analytical Approach
+## My Analytical Approach
 
 I don't start with a dashboard.
 
