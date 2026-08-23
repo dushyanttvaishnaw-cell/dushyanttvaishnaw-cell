@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dushyant Vaishnaw
+# Hi, I'm Dushyant Vaishnaw :)
 
 ### Data Analyst | Business Analyst | Operations & Supply Chain Analytics
 
