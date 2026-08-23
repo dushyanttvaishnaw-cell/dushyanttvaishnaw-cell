@@ -175,14 +175,6 @@ This approach is the foundation of many of my analytics projects.
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dushyanttvaishnaw-cell\&show_icons=true\&theme=transparent\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dushyanttvaishnaw-cell\&layout=compact\&theme=transparent\&hide_border=true)
-
----
-
 ### ⭐ Thanks for visiting!
 
 If you find one of my projects useful, feel free to ⭐ the repository or connect with me.
