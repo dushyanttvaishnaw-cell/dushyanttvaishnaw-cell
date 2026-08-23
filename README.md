@@ -167,15 +167,15 @@ This approach is the foundation of many of my analytics projects.
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-📧 **Email:** [dushyanttvaishnaw@gmail.com](mailto:dushyanttvaishnaw@gmail.com)
+**Email:** [dushyanttvaishnaw@gmail.com](mailto:dushyanttvaishnaw@gmail.com)
 
-💼 **Open to:** Data Analyst • Business Analyst • Operations Analyst • Supply Chain Analyst • BI Analyst opportunities
+**Open to:** Data Analyst • Business Analyst • Operations Analyst • Supply Chain Analyst • BI Analyst opportunities
 
 ---
 
-### ⭐ Thanks for visiting!
+### Thanks for visiting!
 
 If you find one of my projects useful, feel free to ⭐ the repository or connect with me.
 
