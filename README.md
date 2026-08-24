@@ -15,10 +15,15 @@ My projects focus on more than just visualization - I work through the full anal
 ## 🔎 What I Work On
 
 **Business & Data Analytics** - KPI analysis, trend analysis, segmentation, and root-cause investigation
+
 **Operations Analytics** - process performance, service levels, productivity, and operational metrics
+
 **Supply Chain Analytics** - demand uncertainty, inventory decisions, simulations, and logistics
+
 **SQL & Data Engineering** - data modeling, complex SQL, ETL concepts, Oracle, and analytical datasets
+
 **Business Intelligence** - Power BI dashboards, KPI frameworks, and decision-support reporting
+
 **Python & Statistics** - exploratory analysis, simulation, forecasting, and statistical modeling
 
 ---
